@@ -9,7 +9,7 @@ export default function Home() {
                     <div className="max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
                         <h2 className="text-4xl font-bold sm:text-5xl">
                             Download Now
-                            <span className="hidden sm:block text-4xl">Lorem Ipsum</span>
+                            <span className="hidden sm:block text-4xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim a autem iure aliquam illum eos molestiae illo amet odit placeat, ducimus, maiores accusantium! Totam voluptatum numquam inventore aspernatur doloremque aliquid fugit adipisci, quibusdam ipsam?</span>
                         </h2>
 
                         <Link
@@ -40,7 +40,7 @@ export default function Home() {
                 <img className="sm:w-96 w-48" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
+            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum, vitae maxime! Ea perferendis hic at deleniti iste doloremque eligendi earum, quod, cupiditate voluptatibus recusandae quos porro! Voluptas quaerat molestiae impedit tempora facere. Corporis temporibus modi maxime fuga. Et, illo. Voluptas quis et incidunt aliquid debitis labore iste ipsa, voluptate ab distinctio corrupti voluptatum sequi!</h1>
         </div>
     );
 }
